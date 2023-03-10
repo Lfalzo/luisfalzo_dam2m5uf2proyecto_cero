@@ -1,9 +1,9 @@
 body{
-    background: black;
+    background: rgb(107, 105, 233);
 	font-family: Verdana;
 }
 .contact-form{
-    background: #fff;
+    background: rgb(90, 255, 247);
     margin-top: 10%;
     margin-bottom: 5%;
     width: 70%;
